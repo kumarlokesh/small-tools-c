@@ -1,0 +1,4 @@
+data=[
+{latitude: 42.700001, longitude: 41.099998, info: 'type:farm'},
+{latitude: 40.500000, longitude: 39.200001, info: 'type:residential'},
+{latitude: 49.799999, longitude: 39.000000, info: 'type:industry'},
